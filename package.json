@@ -1,0 +1,15 @@
+{
+  "name": "dew_tennis",
+  "version": "1.0.0",
+  "description": "Programa de prueba2 tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Israel",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "standard": "^17.1.2"
+  }
+}
